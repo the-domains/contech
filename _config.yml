@@ -1,0 +1,14 @@
+layout_spectrum: 0.7329749
+typography_spectrum: 0.1612903
+color:
+  saturation: 0.6913313
+  lightness: 0.5670089
+  brandStrength: 0.05782039
+  rhythmicContrast: 0.686879
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: 'Contech '
