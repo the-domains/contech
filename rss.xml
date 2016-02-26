@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Contech ]]></title>
         <description><![CDATA[Contech ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/contech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 06:12:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 00:45:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/contech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[First post!]]></title>
-            <description><![CDATA[<article><h1>First post!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/965f9895-49c7-409c-8439-fb311ef83718.png"></article>]]></description>
-            <link>undefinedfirst-post/index.html</link>
-            <guid isPermaLink="false">39716902-06fa-4f9b-9350-7860d4da2836</guid>
-            <pubDate>Fri, 19 Feb 2016 06:11:34 GMT</pubDate>
+            <title><![CDATA[This robotic bricklayer can build a house in two days]]></title>
+            <description><![CDATA[<article><h1>This robotic bricklayer can build a house in two days</h1><p>"We're at a technological nexus where a few different technologies have got to the level where it's now possible to do it," Pivac told PerthNow. "And that's what we've done." The system will first determine the location of every brick to be laid based on a 3D CAD design, then individually cuts and lays the bricks in sequence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f44a200128d041b33cff43c6b3ac3ec3415ac91.jpg"></article>]]></description>
+            <link>http://www.engadget.com/2015/06/25/robot-bricklayer/</link>
+            <guid isPermaLink="false">dcbbbe2f-b6fe-4d88-88a3-8fad18512c13</guid>
+            <pubDate>Fri, 26 Feb 2016 00:11:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
