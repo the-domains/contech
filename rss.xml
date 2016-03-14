@@ -4,21 +4,21 @@
         <description><![CDATA[Contech ]]></description>
         <link>https://thegrid.ai/contech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 00:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2016 23:09:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/contech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why virtual reality's 'democratization' could transform the construction industry]]></title>
+            <description><![CDATA[<article><h1>Why virtual reality's 'democratization' could transform the construction industry</h1><p>From science-fiction movies, to video games, to real-world applications like flying a plane or driving a car, virtual reality is the ultimate immersive experience. Even among the notoriously late-to-the-tech-party community of construction, virtual technology in some form is grabbing hold.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e5ccb8e7dd1fba903d59962849c756025183f23.jpg"></article>]]></description>
+            <link>http://www.constructiondive.com/news/why-virtual-realitys-democratization-could-transform-the-construction-in/414462/</link>
+            <guid isPermaLink="false">c614d525-e496-460f-a9a2-d0ec3d0e6473</guid>
+            <pubDate>Mon, 14 Mar 2016 23:09:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This robotic bricklayer can build a house in two days]]></title>
             <description><![CDATA[<article><h1>This robotic bricklayer can build a house in two days</h1><p>"We're at a technological nexus where a few different technologies have got to the level where it's now possible to do it," Pivac told PerthNow. "And that's what we've done." The system will first determine the location of every brick to be laid based on a 3D CAD design, then individually cuts and lays the bricks in sequence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f44a200128d041b33cff43c6b3ac3ec3415ac91.jpg"></article>]]></description>
             <link>http://www.engadget.com/2015/06/25/robot-bricklayer/</link>
             <guid isPermaLink="false">dcbbbe2f-b6fe-4d88-88a3-8fad18512c13</guid>
             <pubDate>Fri, 26 Feb 2016 00:11:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First post!]]></title>
-            <description><![CDATA[<article><h1>First post!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d65aec1f1c2085612d9297930ca52341cd13e625.png"></article>]]></description>
-            <link>https://thegrid.ai/contech/first-post/index.html</link>
-            <guid isPermaLink="false">39716902-06fa-4f9b-9350-7860d4da2836</guid>
-            <pubDate>Fri, 19 Feb 2016 06:11:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
